@@ -1,0 +1,2 @@
+model_checkpoint_path: "net_params.ckpt"
+all_model_checkpoint_paths: "net_params.ckpt"
